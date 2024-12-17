@@ -159,6 +159,8 @@
 - Use standard fonts: **Arial, Calibri, Times New Roman**
 - Font size: **10-12**
 
+
+![Resume Builder](image/demo.png)
 ---
 
 ## 7. Step Wizard View
